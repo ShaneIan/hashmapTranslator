@@ -1,12 +1,8 @@
-package yomammatranslator;
+package hashmapTranslator;
 
-/**
- * Name: Ian Shaneyfelt
- * Time: 7:20PM
- */
 import java.util.*;
 import java.io.*;
-public class YoMammaTranslator {
+public class hashmapTranslator {
     public static void main(String[] args) throws FileNotFoundException {
         HashMap<String, String> key = new HashMap<>();
         
